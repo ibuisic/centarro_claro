@@ -2,13 +2,13 @@ global-style:
   version: VERSION
   css:
     theme:
-      css/centarro-claro.theme.css: {}
+      css/centarro-claro.theme.css: { weight: 10 }
 
 maintenance-page:
   version: VERSION
   css:
     theme:
-      css/maintenance-page.css: {}
+      css/maintenance-page.css: { weight: 10 }
 
 color-picker:
   version: VERSION
